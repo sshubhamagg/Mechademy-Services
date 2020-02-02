@@ -1,6 +1,16 @@
-# Project Title
+# Mechademy Hiring Challange Services
 
-Mechademy Hiring Challange Services
+    The application exposes the following end-points
+
+        a. GET: /mechademy/login/username{username}/password/{password}
+            API for user Login
+        b. POST: mechademy/signup
+            API for user Signup
+        c. GET: mechademy/blockchain
+            API to fetch blockchain of user   
+        d. POST: mechademy/blockchain/username/{userName}
+            API to add blocks to a user's blockchain
+
 
 ## Requirements
 
